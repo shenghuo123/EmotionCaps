@@ -1,3 +1,5 @@
+Multi-channel EEG-based Emotion Recognition via a Multi-level Features Guided Capsule Network
+
 # Code for Multi-level Features Guided Capsule Network （MLF-CapsNet）
 This repository contains the Keras implementation for the paper: "Multi-channel EEG-based Emotion Recognition via a Multi-level Features Guided Capsule Network"
 ## About the paper
